@@ -31,6 +31,7 @@ A full-stack web application to help users explore and compare flight options wi
 ---
 
 ## 📁 Project Structure
+
 FlightFinder/
 ├── client/ # Frontend (React App)
 │ ├── public/ # Static assets
@@ -41,7 +42,6 @@ FlightFinder/
 │ ├── index.js # Entry point for API server
 │ ├── schemas.js # Schema/data structure definitions
 │ └── package.json # Backend dependencies
-
 
 ---
 
