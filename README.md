@@ -43,6 +43,9 @@ FlightFinder/
 │ ├── schemas.js # Schema/data structure definitions
 │ └── package.json # Backend dependencies
 
+<img width="407" height="277" alt="image" src="https://github.com/user-attachments/assets/41fb6869-cd21-4d32-a377-8a797791f911" />
+
+
 ---
 
 ## 🚀 Setup Instructions
