@@ -33,77 +33,7 @@ A full-stack web application to help users explore and compare flight options wi
 ## 📁 Project Structure
 
 
-Full_Project_FlightFinder/
-└── FlightFinder/
-    ├── client/
-    │   ├── .gitignore
-    │   ├── package-lock.json
-    │   ├── package.json
-    │   ├── README.md
-    │   ├── public/
-    │   │   ├── favicon.ico
-    │   │   ├── index.html
-    │   │   ├── logo192.png
-    │   │   ├── logo512.png
-    │   │   ├── manifest.json
-    │   │   └── robots.txt
-    │   └── src/
-    │       ├── App.css
-    │       ├── App.js
-    │       ├── App.test.js
-    │       ├── index.css
-    │       ├── index.js
-    │       ├── logo.svg
-    │       ├── reportWebVitals.js
-    │       ├── setupTestes.js
-    │       ├── setupTests.js
-    │       ├── assets/
-    │       │   ├── add-tain.png
-    │       │   ├── gitkeep (1)
-    │       │   ├── HomeBg.png
-    │       │   ├── HomeBG1.png
-    │       │   └── train-pic.jpg
-    │       ├── components/
-    │       │   ├── Login.jsx
-    │       │   ├── Navbar.jsx
-    │       │   └── Register.jsx
-    │       ├── context/
-    │       │   └── GeneralContext.jsx
-    │       ├── pages/
-    │       │   ├── Admin.jsx
-    │       │   ├── AllBookings.jsx
-    │       │   ├── AllFlights.jsx
-    │       │   ├── AllUsers.jsx
-    │       │   ├── Authenticate.jsx
-    │       │   ├── BookFlight.jsx
-    │       │   ├── Bookings.jsx
-    │       │   ├── EditFlight.jsx
-    │       │   ├── FlightAdmin.jsx
-    │       │   ├── FlightBookings.jsx
-    │       │   ├── FlightRequests.jsx
-    │       │   ├── Flights.jsx
-    │       │   ├── LandingPage.jsx
-    │       │   └── NewFlight.jsx
-    │       ├── RouteProtectors/
-    │       │   ├── AuthProtector.jsx
-    │       │   └── LoginProtector.jsx
-    │       └── styles/
-    │           ├── Admin.css
-    │           ├── AllFlights.css
-    │           ├── allUsers.css
-    │           ├── Authenticate.css
-    │           ├── BookFlight.css
-    │           ├── Booking.css
-    │           ├── FlightAdmin.css
-    │           ├── LandingPage.css
-    │           ├── Navbar.css
-    │           └── NewFlight.css
-    └── server/
-        ├── index.js
-        ├── package-lock.json
-        ├── package.json
-        └── schemas.js
-
+<img width="490" height="249" alt="Screenshot 2025-07-19 181240" src="https://github.com/user-attachments/assets/a7123091-c654-488e-a494-d024c6e4e226" />
 
 
 
