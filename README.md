@@ -32,18 +32,9 @@ A full-stack web application to help users explore and compare flight options wi
 
 ## 📁 Project Structure
 
-FlightFinder/
-├── client/ # Frontend (React App)
-│ ├── public/ # Static assets
-│ ├── src/ # React components and styles
-│ └── package.json # Frontend dependencies
-│
-├── server/ # Backend (Node + Express)
-│ ├── index.js # Entry point for API server
-│ ├── schemas.js # Schema/data structure definitions
-│ └── package.json # Backend dependencies
 
-<img width="407" height="277" alt="image" src="https://github.com/user-attachments/assets/41fb6869-cd21-4d32-a377-8a797791f911" />
+<img width="490" height="249" alt="image" src="https://github.com/user-attachments/assets/08cdbb9b-9387-4d4b-964d-a53b479bd13e" />
+
 
 
 ---
